@@ -1,6 +1,6 @@
 # Just: _Trading Bot_
 
-Just a trading bot server that build from Python.
+Just a Trading Bot Algorithm and Simple Server.
 
 ## Features
 
